@@ -86,10 +86,4 @@ A detailed project report is available in the `report/` folder, including:
 - NLP-based topic modeling on `Conditions` and `Study Description`  
 - Dashboard creation using Streamlit or Power BI
 
-## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-## ⭐️ Give it a Star!
-
-If you found this project helpful or insightful, feel free to ⭐ the repo and share your feedback!
