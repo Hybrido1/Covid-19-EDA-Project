@@ -78,10 +78,7 @@ A detailed project report is available in the `report/` folder, including:
 - Conclusion
 
 ## 🙋‍♂️ Author
-
 **Yuvraj Singh Bhadauria**  
-GitHub: [@yourusername](https://github.com/yourusername)  
-Email: your.email@example.com
 
 ## 💡 Future Work
 
